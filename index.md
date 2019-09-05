@@ -16,11 +16,11 @@
 
 ### 連絡先
 
-mnbee33@gmail.com
+Email：[mnbee33@gmail.com](mnbee33@gmail.com)
 
-https://twitter.com/nabeuhdon
+Twitter：[https://twitter.com/nabeuhdon](https://twitter.com/nabeuhdon)
 
-https://github.com/Mnbee33
+Github：[https://github.com/Mnbee33](https://github.com/Mnbee33)
 
 ### 経歴
 
@@ -34,7 +34,7 @@ https://github.com/Mnbee33
 
 2009年04月　千葉大学 文学部 行動科学科 入学
 
-- 専攻：認知情報科学講座　比較認知研究室（http://www.cogsci.l.chiba-u.ac.jp/comparativecognitionlab）
+- 専攻：認知情報科学講座　比較認知研究室（[http://www.cogsci.l.chiba-u.ac.jp/comparativecognitionlab](http://www.cogsci.l.chiba-u.ac.jp/comparativecognitionlab)）
 
 2013年03月　同学 卒業
 
