@@ -1,3 +1,5 @@
+### 自己紹介
+
 #### 氏名
 
 真鍋　美里（まなべ  みさと）
@@ -12,6 +14,22 @@
 
 
 
+#### リンク
+
+Email：mnbee33@gmail.com
+
+Twitter：https://twitter.com/nabeuhdon
+
+Github：https://github.com/Mnbee33
+
+
+
+#### 職歴
+
+2013年04月　株式会社システムイオ （[https://www.systemio.co.jp](https://www.systemio.co.jp/)） 入社
+
+2019年05月　一身上の都合により、同社を退社
+
 #### 学歴
 
 2009年04月　千葉大学 文学部 行動科学科 入学
@@ -24,15 +42,7 @@
 
 
 
-#### 職歴
-
-2013年04月　株式会社システムイオ （[https://www.systemio.co.jp](https://www.systemio.co.jp/)） 入社
-
-2019年05月　一身上の都合により、同社を退社
-
-
-
-#### 資格
+#### 保持資格
 
 | 資格名                                  | 取得年月日     |
 | --------------------------------------- | -------------- |
@@ -42,10 +52,3 @@
 | メンタルヘルス　Ⅲ種（セルフケアコース） | 2016年12月16日 |
 | メンタルヘルス　Ⅱ種（ラインケアコース） | 2016年12月16日 |
 
-
-
-#### リンク
-
-Twitter（https://twitter.com/nabeuhdon）
-
-Github（https://github.com/Mnbee33）
