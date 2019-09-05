@@ -14,9 +14,9 @@
 
 #### リンク
 
-[Email]: mnbee33@gmail.com
-[Twitter]: https://twitter.com/nabeuhdon
-[Github]: https://github.com/Mnbee33
+[Email]: mnbee33@gmail.com	"Email"
+[Twitter]: https://twitter.com/nabeuhdon	"Twitter"
+[Github]: https://github.com/Mnbee33	"Github"
 
 #### 職歴
 
