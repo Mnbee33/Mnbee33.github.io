@@ -22,6 +22,8 @@ Twitter：[https://twitter.com/nabeuhdon](https://twitter.com/nabeuhdon)
 
 Github：[https://github.com/Mnbee33](https://github.com/Mnbee33)
 
+---
+
 ### 経歴
 
 #### 職歴
@@ -39,6 +41,8 @@ Github：[https://github.com/Mnbee33](https://github.com/Mnbee33)
 2013年03月　同学 卒業
 
 - 卒業論文：ハトにおける拡大・縮小刺激の運動速度による知覚変化の検討―回転螺旋パターンを用いて―
+
+---
 
 ### 保有資格
 
