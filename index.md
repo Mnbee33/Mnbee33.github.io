@@ -14,23 +14,7 @@
 
 ---
 
-### 連絡先
-
-Email：mnbee33@gmail.com
-
-Twitter：[https://twitter.com/nabeuhdon](https://twitter.com/nabeuhdon)
-
-Github：[https://github.com/Mnbee33](https://github.com/Mnbee33)
-
----
-
 ### 経歴
-
-#### 職歴
-
-2013年04月　株式会社システムイオ （[https://www.systemio.co.jp](https://www.systemio.co.jp/)） 入社
-
-2019年05月　一身上の都合により、同社を退社
 
 #### 学歴
 
@@ -41,6 +25,12 @@ Github：[https://github.com/Mnbee33](https://github.com/Mnbee33)
 2013年03月　同学 卒業
 
 - 卒業論文：ハトにおける拡大・縮小刺激の運動速度による知覚変化の検討―回転螺旋パターンを用いて―
+
+#### 職歴
+
+2013年04月　株式会社システムイオ （[https://www.systemio.co.jp](https://www.systemio.co.jp/)） 入社
+
+2019年05月　一身上の都合により、同社を退社
 
 ---
 
@@ -54,3 +44,14 @@ Github：[https://github.com/Mnbee33](https://github.com/Mnbee33)
 | メンタルヘルス　Ⅲ種（セルフケアコース） | 2016年12月16日 |
 | メンタルヘルス　Ⅱ種（ラインケアコース） | 2016年12月16日 |
 
+------
+
+### 連絡先
+
+Email：mnbee33@gmail.com
+
+Twitter：[https://twitter.com/nabeuhdon](https://twitter.com/nabeuhdon)
+
+Github：[https://github.com/Mnbee33](https://github.com/Mnbee33)
+
+### 
