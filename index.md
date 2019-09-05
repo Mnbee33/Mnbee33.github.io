@@ -1,4 +1,6 @@
-### 自己紹介
+## 自己紹介
+
+### プロフィール
 
 #### 氏名
 
@@ -12,11 +14,15 @@
 
 千葉県
 
-#### リンク
+### 連絡先
 
-[Email]: mnbee33@gmail.com	"Email"
-[Twitter]: https://twitter.com/nabeuhdon	"Twitter"
-[Github]: https://github.com/Mnbee33	"Github"
+mnbee33@gmail.com
+
+https://twitter.com/nabeuhdon
+
+https://github.com/Mnbee33
+
+### 経歴
 
 #### 職歴
 
@@ -34,7 +40,7 @@
 
 - 卒業論文：ハトにおける拡大・縮小刺激の運動速度による知覚変化の検討―回転螺旋パターンを用いて―
 
-#### 保有資格
+### 保有資格
 
 | 資格名                                  | 取得年月日     |
 | --------------------------------------- | -------------- |
