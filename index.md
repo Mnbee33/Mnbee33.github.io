@@ -1,4 +1,4 @@
-### プロフィール
+### Profile
 
 #### 氏名
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 経歴
+### History
 
 #### 学歴
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 保有資格
+### Skill
 
 | 資格名                                  | 取得年月日     |
 | --------------------------------------- | -------------- |
@@ -46,12 +46,10 @@
 
 ------
 
-### 連絡先
+### Contact
 
 Email：mnbee33@gmail.com
 
 Twitter：[https://twitter.com/nabeuhdon](https://twitter.com/nabeuhdon)
 
 Github：[https://github.com/Mnbee33](https://github.com/Mnbee33)
-
-### 
