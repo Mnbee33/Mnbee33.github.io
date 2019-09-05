@@ -16,7 +16,7 @@
 
 ### 連絡先
 
-Email：[mnbee33@gmail.com](mnbee33@gmail.com)
+Email：mnbee33@gmail.com
 
 Twitter：[https://twitter.com/nabeuhdon](https://twitter.com/nabeuhdon)
 
