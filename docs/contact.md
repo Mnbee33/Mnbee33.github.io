@@ -1,4 +1,7 @@
-## 連絡先
+---
+nav_order: 3
+---
+# 連絡先
 
 Email：mnbee33@gmail.com
 
