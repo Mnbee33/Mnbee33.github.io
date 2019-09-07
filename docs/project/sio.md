@@ -4,7 +4,7 @@ parent: 職務経歴
 nav_order: 1
 ---
 # 株式会社システムイオ
-{: no_toc}
+{: .no_toc}
 
 [https://www.systemio.co.jp/](https://www.systemio.co.jp/])
 - 在籍期間：2013年04月〜2019年05月
