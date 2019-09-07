@@ -23,8 +23,7 @@
 - 専攻：認知情報科学講座　比較認知研究室（[http://www.cogsci.l.chiba-u.ac.jp/comparativecognitionlab](http://www.cogsci.l.chiba-u.ac.jp/comparativecognitionlab)）
 - 卒業論文：ハトにおける拡大・縮小刺激の運動速度による知覚変化の検討―回転螺旋パターンを用いて―
 
-### 職歴
-[詳細](jobhistory.md){: .btn .btn-green }
+### 職歴　[詳細](./docs/jobhistory.md){: .btn .btn-green }
 
 2013年04月〜2019年05月　株式会社システムイオ
 
@@ -49,4 +48,3 @@ Email：mnbee33@gmail.com
 Twitter：[https://twitter.com/nabeuhdon](https://twitter.com/nabeuhdon)
 
 Github：[https://github.com/Mnbee33](https://github.com/Mnbee33)
-
