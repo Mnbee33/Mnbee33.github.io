@@ -31,11 +31,6 @@ nav_order: 1
 {:toc}
 
 ---
-
-### 参画プロジェクト
-{: .no_toc}
-[詳細はこちら](./project/sio.md){: .btn .btn-blue }
----
 ## 電力会社 次期社内Webシステムの開発
 
 ### 参画期間
