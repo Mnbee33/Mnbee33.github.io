@@ -1,7 +1,7 @@
 ---
 title: 職務経歴
 has_children: true
-permalink: ./project
+permalink: ./history
 nav_order: 2
 ---
 # 職務経歴

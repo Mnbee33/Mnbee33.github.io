@@ -37,13 +37,3 @@
 | Java Gold SE8                           | 2018年11月30日 |
 | メンタルヘルス　Ⅲ種（セルフケアコース） | 2016年12月16日 |
 | メンタルヘルス　Ⅱ種（ラインケアコース） | 2016年12月16日 |
-
-------
-
-## 連絡先
-
-Email：mnbee33@gmail.com
-
-Twitter：[https://twitter.com/nabeuhdon](https://twitter.com/nabeuhdon)
-
-Github：[https://github.com/Mnbee33](https://github.com/Mnbee33)
