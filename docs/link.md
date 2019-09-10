@@ -1,7 +1,7 @@
 ---
 nav_order: 9
 ---
-# 連絡先
+# リンク
 
 Email：mnbee33@gmail.com
 
