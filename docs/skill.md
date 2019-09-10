@@ -3,7 +3,7 @@ title: スキル
 nav_order: 3
 ---
 # スキル
-{: no_toc}
+{: .no_toc}
 
 1. TOC
 {:toc}
